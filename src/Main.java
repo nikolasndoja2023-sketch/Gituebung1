@@ -7,7 +7,7 @@ public class Main {
 String name= "Nikolas";
 String surname= "Ndoja";
 
-        System.out.println("Hello "+name + surname);
+        System.out.println("Hello world "+name + surname);
 
 
     }
